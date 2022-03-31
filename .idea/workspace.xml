@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c039e1f9-d9d1-4b36-9669-85bc78865a54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/PaymentMethod/PaymentMethod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/partials/SideNavbar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/partials/TopNavbar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/App/useToken.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/App/useToken.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Dashboard/Dashboard.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Dashboard/Dashboard.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login/Login.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/Login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Login/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Login/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/server.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="26HGXK93mKbESgRnbEumNlMBBnJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\react-server\daily-monthly-account\src\components\App" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c039e1f9-d9d1-4b36-9669-85bc78865a54" name="Default Changelist" comment="" />
+      <created>1647073136886</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647073136886</updated>
+      <workItem from="1647073152956" duration="5578000" />
+      <workItem from="1647141601980" duration="928000" />
+      <workItem from="1647179689267" duration="3542000" />
+      <workItem from="1647234809759" duration="601000" />
+      <workItem from="1647271367430" duration="614000" />
+      <workItem from="1647274587323" duration="619000" />
+      <workItem from="1647362025359" duration="2023000" />
+      <workItem from="1647412010596" duration="36000" />
+      <workItem from="1647497825133" duration="4743000" />
+      <workItem from="1647575915921" duration="1199000" />
+      <workItem from="1647608646342" duration="1960000" />
+      <workItem from="1647790536504" duration="596000" />
+      <workItem from="1647835950676" duration="51000" />
+      <workItem from="1647956705511" duration="5798000" />
+      <workItem from="1648010285519" duration="599000" />
+      <workItem from="1648651611130" duration="3404000" />
+      <workItem from="1648697593066" duration="211000" />
+      <workItem from="1648704237989" duration="4555000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1647094362013">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1647094362013" />
+    <state x="1274" y="443" key="NewPhpFileDialog" timestamp="1647092319614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1274" y="443" key="NewPhpFileDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1647092319614" />
+  </component>
+</project>
