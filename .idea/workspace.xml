@@ -2,6 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c039e1f9-d9d1-4b36-9669-85bc78865a54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/.eslintcache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/10.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/11.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/9.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/node_modules/.cache/default-development/index.pack.old" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/App/App.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/PaymentMethod/PaymentMethod.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/components/partials/SideNavbar.js" afterDir="false" />
@@ -84,7 +91,7 @@
       <workItem from="1648010285519" duration="599000" />
       <workItem from="1648651611130" duration="3404000" />
       <workItem from="1648697593066" duration="211000" />
-      <workItem from="1648704237989" duration="4555000" />
+      <workItem from="1648704237989" duration="4821000" />
     </task>
     <servers />
   </component>
